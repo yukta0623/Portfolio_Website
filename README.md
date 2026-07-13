@@ -8,7 +8,6 @@ A single-page personal portfolio built with pure HTML5, CSS3, and vanilla JavaSc
 ![Made with HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Made with CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Made with JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
 ## ✨ Overview
@@ -48,7 +47,6 @@ All colours are defined as CSS custom properties in `:root`, so the entire theme
 yukta-portfolio-website/
 ├── index.html          # Entire site — markup, styles, and script in one file
 ├── README.md            # This file
-├── LICENSE
 └── .gitignore
 ```
 
@@ -65,6 +63,3 @@ yukta-portfolio-website/
 **Yukta Brahmankar**
 Student, Walchand College of Engineering, Sangli
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
