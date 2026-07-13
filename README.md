@@ -10,9 +10,6 @@ A single-page personal portfolio built with pure HTML5, CSS3, and vanilla JavaSc
 ![Made with JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## 🔗 Live Demo
-
-https://yukta0623.github.io/Portfolio_Website/
 
 ## ✨ Overview
 
